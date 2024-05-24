@@ -1,0 +1,1 @@
+/Users/nicholaspina/.oh-my-zsh/lib/directories.zsh
